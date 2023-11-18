@@ -1,0 +1,4 @@
+dramatiq==1.13.0
+django
+djangorestframework
+paramiko
